@@ -1,0 +1,54 @@
+#wrapper {
+	width: 1000px;
+	background-color: darkgreen;
+	color: white;
+	font-family: sans-serif;
+}
+
+/*div {
+	outline: 1px solid red;
+}*/
+
+#new_user {
+	display: inline-block;
+	vertical-align: top;
+}
+
+form {
+	margin: 15px;
+	width: 250px;
+	padding: 20px;
+	text-align: left;
+}
+
+
+form p {
+	display: inline-block;
+	margin-right: 10px;
+	padding-top: 10px;
+}
+
+form input {
+	width: 150px;
+}
+
+form textarea {
+	width: 250px;
+	height: 150px;
+}
+
+#rolodex {
+	display: inline-block;
+	margin-left: 200px;
+}
+
+.contact_card {
+	color: black;
+	width: 350px;
+	height: 100px;
+	border: 2px solid black;
+	display: block;
+	margin: 15px;
+	padding: 15px;
+	background-color: lightblue;
+}
